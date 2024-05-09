@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <id>1</id>
+    <authorId>1</authorId>
+    <publisherId>1</publisherId>
+    <name>The Sea-Wolf</name>
+    <price>20,5</price>
+    <year>1904</year>
+    <!--<numbers>
+      <number>1002</number>
+      <number>1003</number>
+    </numbers>-->
+  </book>
+  <book>
+    <id>2</id>
+    <authorId>1</authorId>
+    <publisherId>1</publisherId>
+    <name>Burning Daylight</name>
+    <price>26,5</price>
+    <year>1910</year>
+    <numbers>
+      <number>1004</number>
+      <number>1005</number>
+    </numbers>
+  </book>
+  <book>
+    <id>3</id>
+    <authorId>2</authorId>
+    <publisherId>2</publisherId>
+    <name>Hamlet</name>
+    <price>15,3</price>
+    <year>1980</year>
+    <numbers>
+      <number>2110</number>
+      <number>2111</number>
+    </numbers>
+  </book>
+  <book>
+    <id>4</id>
+    <authorId>3</authorId>
+    <publisherId>3</publisherId>
+    <name>Harry Potter and the Philosopher's Stone</name>
+    <price>12,3</price>
+    <year>1995</year>
+    <numbers>
+      <number>3110</number>
+      <number>3111</number>
+      <number>3112</number>
+    </numbers>
+  </book>
+  <book>
+    <id>5</id>
+    <authorId>3</authorId>
+    <publisherId>3</publisherId>
+    <name>Harry Potter and the Chamber of Secrets</name>
+    <price>11,2</price>
+    <year>1998</year>
+    <numbers>
+      <number>3113</number>
+    </numbers>
+  </book>
+  <book>
+    <id>6</id>
+    <authorId>3</authorId>
+    <publisherId>3</publisherId>
+    <name>Harry Potter and the Deathly Hallows</name>
+    <price>13,4</price>
+    <year>2007</year>
+    <numbers>
+      <number>3114</number>
+      <number>3115</number>
+    </numbers>
+  </book>
+  <book>
+    <id>7</id>
+    <authorId>4</authorId>
+    <publisherId>3</publisherId>
+    <name>Murder on the Orient Express</name>
+    <price>15,6</price>
+    <year>1934</year>
+    <numbers>
+      <number>4110</number>
+    </numbers>
+  </book>
+  <book>
+    <id>8</id>
+    <authorId>4</authorId>
+    <publisherId>2</publisherId>
+    <name>Death on the Nile</name>
+    <price>16,3</price>
+    <year>1950</year>
+    <numbers>
+      <number>4111</number>
+      <number>4112</number>
+    </numbers>
+  </book>
+</books>

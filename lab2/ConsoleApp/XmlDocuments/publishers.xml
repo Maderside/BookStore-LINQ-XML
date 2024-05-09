@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishers>
+  <publisher>
+    <id>1</id>
+    <name>Sunset publishing</name>
+    <country>USA</country>
+  </publisher>
+  <publisher>
+    <id>2</id>
+    <name>Sierra Madre</name>
+    <country>Spain</country>
+  </publisher>
+  <publisher>
+    <id>3</id>
+    <name>Blue Sky Times</name>
+    <country>USA</country>
+  </publisher>
+</publishers>

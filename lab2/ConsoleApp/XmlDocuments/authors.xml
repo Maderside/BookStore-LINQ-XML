@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<authors>
+  <author>
+    <id>1</id>
+    <name>Jack</name>
+    <surname>London</surname>
+  </author>
+  <author>
+    <id>2</id>
+    <name>William</name>
+    <surname>Shakespeare</surname>
+  </author>
+  <author>
+    <id>3</id>
+    <name>Joanne</name>
+    <surname>Rowling</surname>
+  </author>
+  <author>
+    <id>4</id>
+    <name>Agatha</name>
+    <surname>Christie</surname>
+  </author>
+</authors>
